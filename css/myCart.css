@@ -1,0 +1,73 @@
+.header{
+    width: 860px;
+    height: 80px;
+    background-color: #ccc;
+    margin: auto;
+}
+.header h1{
+    text-align: center;
+    line-height: 80px;
+}
+.goodsList{
+    width: 860px;
+    margin: auto;
+}
+.title{
+    overflow: hidden;
+    height: 40px;
+    background-color: #ddd;
+    margin-top: 20px;
+}
+.title span{
+    float: left;
+    font-size: 16px;
+    line-height: 40px;
+    color: #333;
+}
+.title .t1{
+    margin-left: 100px;
+}
+.title .t2{
+    margin-left: 400px;
+}
+.title .t3{
+    margin-left: 100px;
+}
+.title .t4{
+    margin-left: 100px;
+}
+.list li{
+    overflow: hidden;
+    margin: 10px 0;
+}
+.list li img{
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+.list li h3{
+    float: left;
+    font-weight: normal;
+    font-size: 14px;
+    width: 300px;
+    padding: 10px 0 0 15px;
+}
+.list li p{
+    float: left;
+    font-size: 14px;
+    color: red;
+    padding: 10px 0 0 136px;
+}
+.list li span{
+    float: left;
+    font-size: 14px;
+    color: blue;
+    padding: 10px 0 0 106px;
+}
+.list li em{
+    float: left;
+    font-size: 14px;
+    color: orangered;
+    padding: 10px 0 0 113px;
+    cursor: pointer;
+}
