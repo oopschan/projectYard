@@ -99,4 +99,6 @@ console.log(abc);
 
 1. 切换分支
 
-## test2 分支切换
+## git branch -d 分支名
+
+1. 删除分支
